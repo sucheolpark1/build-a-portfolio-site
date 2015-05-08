@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates:400,700);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+}
+.text-muted{
+	color:#BCBBBB;
+}
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+
+h1{
+	font-weight: 300;
+	font-family: 'Pacifico', cursive;
+}
+
+h4{
+	font-weight: 400;
+	line-height: 1.0;
+}
+
+.title-margin{
+	margin-top: 10px;
+}
+
+.text-red{
+	color: #cb202a;
+}
+
+.text-blue{
+	color: #487fb2;
+}
+
+.work-padding{
+	padding-bottom:10px;
+}
+
+.bold{
+	font-weight: 700;
+}
+
+.space{
+	 height: 30px;
+}
+
+.space_small{
+	 height: 10px;
+}
